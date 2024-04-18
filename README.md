@@ -1,5 +1,4 @@
-# circledrawingcanvas
-
+# Circle Drawing Application
 ## Project setup
 ```
 npm install
